@@ -21,7 +21,6 @@ if open_gtkwave:
 
 sim_post_cmd = sim_cmd
 
-
 modules = {
     "local" : [
         "../testbenches/",
