@@ -1,7 +1,13 @@
-*.vcd
-*.ghw
-*.gtkw
-*.cf
-
-Makefile
+# Simulation files
+## Build
 work/
+*.cf
+*.o
+## Waveform
+*.vcd
+*.fst
+*.ghw
+
+# `hdlmake`'s Makefiles
+Makefile
+
